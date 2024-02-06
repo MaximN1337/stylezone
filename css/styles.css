@@ -11288,9 +11288,8 @@ video {
 #target-content #target-inner {
   position: absolute;
   display: block;
-  padding: 48px;
   line-height: 1.8;
-  width: 70%;
+  width: 80%;
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
@@ -11298,7 +11297,7 @@ video {
   background: white;
   color: #34495E;
   border-radius: 10px;
-  height: 80%;
+  height: 60%;
 }
 #target-content #target-inner h2 {
   margin-top: 0;
